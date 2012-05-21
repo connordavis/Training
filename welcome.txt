@@ -1,0 +1,21 @@
+<html>
+<body> Welcome text file... testing
+
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit. Phasellus metus libero, mattis sed
+venenatis quis, pretium ac ante. Donec at risus quis odio tempor
+fermentum. Sed feugiat justo ut purus posuere vulputate. Aliquam tempor
+orci facilisis mi elementum consequat. Curabitur euismod faucibus
+porttitor. Aliquam nec libero eu eros tempor convallis. Praesent
+consectetur dictum turpis et posuere. Sed tortor quam, congue a luctus
+ac, pellentesque a justo. Donec viverra, ligula a tristique lobortis, mi
+ante fringilla metus, ac volutpat nisl enim eget justo. Integer dui
+metus, feugiat vel condimentum at, semper in tellus. In lectus urna,
+placerat a ornare quis, sodales porttitor velit. Integer arcu orci,
+varius eget varius quis, pellentesque sit amet tellus. Quisque
+pellentesque eleifend massa, sit amet gravida massa tempor sed. Proin
+luctus, ligula ut tincidunt tempus, tellus nisi aliquam est, eu molestie
+tortor lorem eget magna.
+
+</body>
+</html>

@@ -1,0 +1,88 @@
+root { 
+    display: block;
+}
+a {
+    color: black;
+    margin-right: 10px;
+    padding: 5px;
+    background: #CCC;
+    border-radius: 5px;
+    border: 1px #002794 solid;
+
+
+}
+li {
+    float: left;
+    list-style-type: none;
+}
+.active a{
+    background: white;
+    color: black;
+}
+
+#paragraph {
+    display:none;
+    border: 2px gray solid;
+    width: 465px;
+}
+#clickme {
+    cursor: pointer;
+}
+.variables {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    font-size: 20pt;
+}
+
+.countdown_header {
+    text-align: center;
+    font-size: 17pt;
+    text-decoration: underline;
+}
+.content {
+    border: red 3px dashed;
+    width: 610px;
+    margin-left: 245px;
+    padding: 30px;
+    padding-top: 0px;
+    height: 140px;
+}
+.day {
+    color: red;
+    font-size: 36pt;
+}
+.hour {
+    color: red;
+    font-size: 36pt;
+}
+.minute {
+    color: red;
+    font-size: 36pt;
+}
+.second {
+    color: black;
+    font-size: 36pt;
+}
+.variables li{
+    float: left;
+    margin-left: 45px;
+    margin-right: 25px;
+    margin-top: 10px;
+}
+.countdown_day {
+    width: 200px;
+    height: 30px;
+    font-size: 16pt;
+}
+.countdown_day_title {
+    width: 200px;
+    height: 30px;
+    font-size: 16pt;
+}
+.explain {
+    margin-left: -60px;
+}
+.content-body {
+    text-align: center;
+}

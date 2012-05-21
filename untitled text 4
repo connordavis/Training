@@ -1,0 +1,23 @@
+variable_set ('biblereadings_last_sent', time()) ; 
+
+$value = variable_get('biblereadings_last_sent', 0);
+
+dpm($value);
+
+$now =  time();
+$last_sent = variable_get('biblereadings_last_sent', 1330363554);
+
+
+$one_day = 60*60*24;
+ $ready_to_send = ($now - $last_sent >= $one_day);
+
+if ($ready_to_send == true) {
+
+dpm('Ready to Send');
+ 
+}
+else {
+dpm("Try Again Tomorrow :(");
+}
+
+dpm($ready_to_send);
